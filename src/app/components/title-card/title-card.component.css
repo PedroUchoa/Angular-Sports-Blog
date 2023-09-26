@@ -1,0 +1,10 @@
+.title-card{
+  color: white;
+  margin-top: 20px;
+}
+
+.title-card h1{
+  display: flex;
+  justify-content: center;
+  font-size: 100px;
+}

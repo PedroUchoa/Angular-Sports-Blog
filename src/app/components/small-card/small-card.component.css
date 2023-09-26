@@ -1,0 +1,20 @@
+.small-card-container{
+  width: 700px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid white;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+.small-card-container img{
+  width: 200px;
+  height: 120px;
+}
+
+.small-card-container p a{
+  color: white;
+  margin-left: 20px;
+  font-size: 25px;
+  text-decoration: none;
+}

@@ -1,0 +1,31 @@
+.content-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.content-container img{
+ width: 350px;
+}
+
+.content-container h1{
+  color: white;
+  font-size: 25px;
+  text-decoration: underline;
+  margin-top: 20px;
+}
+
+.content-container p{
+  color: gray;
+  margin-top: 20px;
+}
+
+.content-container a{
+  color: white;
+  width: 50px;
+  height: 60px;
+  font-size: 20px;
+  text-decoration: none;
+  margin-top: 20px;
+}
